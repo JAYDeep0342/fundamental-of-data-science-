@@ -25,7 +25,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/JAYDeep0342/fundamental-of-data-science.git
+
 Install dependencies:
 
 bash
